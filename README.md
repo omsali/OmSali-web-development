@@ -1,0 +1,2 @@
+My name is OM RAVINDRA SALI. I halt at Shirdi. I have done my schooling from Rahata, Done my highschool at Atma Malik International School at Jeur-Kumbhari. Currently I'm pursuing my B-Tech currently in 3rd year. I passed out through my secondary school with 87.6%, highschool with 83.4%. 
+I've made a CLI apps named "Are-you-my-best-friend". The apps has a quiz about me.
